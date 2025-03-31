@@ -1,2 +1,4 @@
 Scipy
-git commit -m "Scipy file commited"
+git add .
+git commit -m "Optimizers file added" 
+git push origin main

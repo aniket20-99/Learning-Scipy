@@ -44,4 +44,3 @@ def eqn(x):
 
 Min = minimize(eqn, 0, method = 'BFGS')
 print(Min)
-
